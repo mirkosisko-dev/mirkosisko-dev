@@ -1,6 +1,6 @@
 # 💻 Mirko Šiško
 
-**`Software Engineer`**
+**`Software Developer`**
 
 Experienced Software Developer adept in bringing forth expertise in design, installation, testing and maintenance of software systems. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Equipped with a diverse and promising skill-set.
 
